@@ -14,7 +14,7 @@ const contacts = [
 const companies = [
     {
         name: 'NOQTA',
-        description: 'NOQTA is a web agency AI centered, based in Tunisia. We provide web & mobile development, AI & Automation, Cybersecurity, Consulting, IT Maintenance & support.',
+        description: 'NOQTA is a AI centered web agency, based in Tunisia. We provide web & mobile development, AI & Automation, Cybersecurity, Consulting and IT Maintenance & support services.',
         projects: [
             `Let's us build your next project together.`,
         ],
