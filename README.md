@@ -115,6 +115,3 @@ This project is licensed under the MIT License.
 ## Author
 
 Anis Marrouchi
-```
-
-This `README.md` provides a comprehensive overview of the project's features, setup instructions, usage details, and additional relevant information.
